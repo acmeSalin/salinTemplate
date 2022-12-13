@@ -1,0 +1,23 @@
+{
+  "name": "salin",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "scss": "node-sass --output-style compressed assets/scss -o assets/css -w -r"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/acmeSalin/salinTemplate.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/acmeSalin/salinTemplate/issues"
+  },
+  "homepage": "https://github.com/acmeSalin/salinTemplate#readme",
+  "dependencies": {
+    "bootstrap": "^5.2.3",
+    "node-sass": "^8.0.0"
+  }
+}

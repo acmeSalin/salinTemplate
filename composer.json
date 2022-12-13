@@ -1,0 +1,22 @@
+{
+    "name": "acme/salin",
+    "autoload": {
+        "psr-4": {
+            "App\\": "app/"
+        }
+    },
+    "authors": [
+        {
+            "name": "Acme",
+            "email": "salin.dev.user2@gmail.com"
+        }
+    ],
+    "require": {
+        "illuminate/database": "^5.4"
+    },
+    "config": {
+        "allow-plugins": {
+            "kylekatarnls/update-helper": true
+        }
+    }
+}
