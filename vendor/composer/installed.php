@@ -5,7 +5,7 @@
         'type' => 'library',
         'install_path' => __DIR__ . '/../../',
         'aliases' => array(),
-        'reference' => '4a86c1054d4e09aabdd51832834578deca7a27f5',
+        'reference' => '79798a77598a641f7aa6a0895d1b3481e647a454',
         'name' => 'acme/salin',
         'dev' => true,
     ),
@@ -16,7 +16,7 @@
             'type' => 'library',
             'install_path' => __DIR__ . '/../../',
             'aliases' => array(),
-            'reference' => '4a86c1054d4e09aabdd51832834578deca7a27f5',
+            'reference' => '79798a77598a641f7aa6a0895d1b3481e647a454',
             'dev_requirement' => false,
         ),
         'doctrine/inflector' => array(
@@ -53,6 +53,15 @@
             'install_path' => __DIR__ . '/../illuminate/database',
             'aliases' => array(),
             'reference' => '405aa061a5bc8588cbf3a78fba383541a568e3fe',
+            'dev_requirement' => false,
+        ),
+        'illuminate/events' => array(
+            'pretty_version' => 'v5.4.36',
+            'version' => '5.4.36.0',
+            'type' => 'library',
+            'install_path' => __DIR__ . '/../illuminate/events',
+            'aliases' => array(),
+            'reference' => 'ebdca3b0305e9fc954afb9e422c4559482cd11e6',
             'dev_requirement' => false,
         ),
         'illuminate/support' => array(

@@ -12,7 +12,8 @@
         }
     ],
     "require": {
-        "illuminate/database": "^5.4"
+        "illuminate/database": "^5.4",
+        "illuminate/events": "^5.4"
     },
     "config": {
         "allow-plugins": {
