@@ -1,2 +1,1 @@
 <?php
-$salin= "Hello";
