@@ -1,2 +1,2 @@
 <?php
-echo "TRY2";
+$salin= "Hello";
